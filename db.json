@@ -1,121 +1,117 @@
 {
-  "Serviços": [
+  "PRIMEIRA HABILITAÇÃO": [
     {
-      "PRIMEIRA HABILITAÇÃO": [
-        {
-          "id": 1,
-          "nome": "Categoria B",
-          "descrição": "Curso indicado para quem quer se tornar um condutor de veículo motorizado cujo peso bruto total não exceda a 3500 Kg e cuja lotação não exceda a oito lugares, excluído o do motorista.",
-          "preco": 4000,
-          "pagamento": "à vista"
-        },
-        {
-          "id": 2,
-          "nome": "Categoria B",
-          "descrição": "Curso indicado para quem quer se tornar um condutor de veículo motorizado cujo peso bruto total não exceda a 3500 Kg e cuja lotação não exceda a oito lugares, excluído o do motorista.",
-          "preco": 4500,
-          "pagamento": "via PIX"
-        },
-        {
-          "id": 3,
-          "nome": "Categoria B",
-          "descrição": "Curso indicado para quem quer se tornar um condutor de veículo motorizado cujo peso bruto total não exceda a 3500 Kg e cuja lotação não exceda a oito lugares, excluído o do motorista.",
-          "preco": 5000,
-          "pagamento": "parcelado no cartão"
-        }
-      ],
-      "HABILITAÇÃO DE MOTO": [
-        {
-          "id": 1,
-          "nome": "Categoria A",
-          "descrição": "Curso indicado para o condutor de veículo motorizado de duas ou três rodas.",
-          "preco": 4000,
-          "pagamento": "à vista"
-        },
-        {
-          "id": 2,
-          "nome": "Categoria A",
-          "descrição": "Curso indicado para o condutor de veículo motorizado de duas ou três rodas.",
-          "preco": 4500,
-          "pagamento": "via PIX"
-        },
-        {
-          "id": 3,
-          "nome": "Categoria A",
-          "descrição": "Curso indicado para o condutor de veículo motorizado de duas ou três rodas.",
-          "preco": 5000,
-          "pagamento": "parcelado no cartão"
-        }
-      ],
-      "RECICLAGEM": [
-        {
-          "id": 1,
-          "nome": "Reciclagem",
-          "descrição": "O curso tem como objetivo de reeducar o condutor que tenha sofrido a penalidade de suspensão do direito de dirigir.",
-          "preco": 4000,
-          "pagamento": "à vista"
-        },
-        {
-          "id": 2,
-          "nome": "Reciclagem",
-          "descrição": "O curso tem como objetivo de reeducar o condutor que tenha sofrido a penalidade de suspensão do direito de dirigir.",
-          "preco": 4500,
-          "pagamento": "via PIX"
-        },
-        {
-          "id": 3,
-          "nome": "Reciclagem",
-          "descrição": "O curso tem como objetivo de reeducar o condutor que tenha sofrido a penalidade de suspensão do direito de dirigir.",
-          "preco": 5000,
-          "pagamento": "parcelado no cartão"
-        }
-      ],
-      "RENOVAÇÃO": [
-        {
-          "id": 1,
-          "nome": "Renovação",
-          "descrição": "Prestamos todos os serviços necessários para a renovação de sua Carteira Nacional Habilitação / CNH.",
-          "preco": 4000,
-          "pagamento": "à vista"
-        },
-        {
-          "id": 2,
-          "nome": "Renovação",
-          "descrição": "Prestamos todos os serviços necessários para a renovação de sua Carteira Nacional Habilitação / CNH.",
-          "preco": 4500,
-          "pagamento": "via PIX"
-        },
-        {
-          "id": 3,
-          "nome": "Renovação",
-          "descrição": "Prestamos todos os serviços necessários para a renovação de sua Carteira Nacional Habilitação / CNH.",
-          "preco": 5000,
-          "pagamento": "parcelado no cartão"
-        }
-      ],
-      "INCLUSÃO DE CATEGORIA": [
-        {
-          "id": 1,
-          "nome": "Inclusão de Categoria",
-          "descrição": "Alteração ou Inclusão de Categoria os condutores ou aqueles que possuam a Permissão para Dirigir, desde que não tenham cometido infração grave, gravíssima ou sejam reincidentes em infrações médias, nos doze meses anteriores à solicitação.",
-          "preco": 4000,
-          "pagamento": "à vista"
-        },
-        {
-          "id": 1,
-          "nome": "Inclusão de Categoria",
-          "descrição": "Alteração ou Inclusão de Categoria os condutores ou aqueles que possuam a Permissão para Dirigir, desde que não tenham cometido infração grave, gravíssima ou sejam reincidentes em infrações médias, nos doze meses anteriores à solicitação.",
-          "preco": 4500,
-          "pagamento": "via PIX"
-        },
-        {
-          "id": 1,
-          "nome": "Inclusão de Categoria",
-          "descrição": "Alteração ou Inclusão de Categoria os condutores ou aqueles que possuam a Permissão para Dirigir, desde que não tenham cometido infração grave, gravíssima ou sejam reincidentes em infrações médias, nos doze meses anteriores à solicitação.",
-          "preco": 5000,
-          "pagamento": "parcelado no cartão"
-        }
-      ]
+      "id": 1,
+      "nome": "Categoria B",
+      "descrição": "Curso indicado para quem quer se tornar um condutor de veículo motorizado cujo peso bruto total não exceda a 3500 Kg e cuja lotação não exceda a oito lugares, excluído o do motorista.",
+      "preco": 4000,
+      "pagamento": "à vista"
+    },
+    {
+      "id": 2,
+      "nome": "Categoria B",
+      "descrição": "Curso indicado para quem quer se tornar um condutor de veículo motorizado cujo peso bruto total não exceda a 3500 Kg e cuja lotação não exceda a oito lugares, excluído o do motorista.",
+      "preco": 4500,
+      "pagamento": "via PIX"
+    },
+    {
+      "id": 3,
+      "nome": "Categoria B",
+      "descrição": "Curso indicado para quem quer se tornar um condutor de veículo motorizado cujo peso bruto total não exceda a 3500 Kg e cuja lotação não exceda a oito lugares, excluído o do motorista.",
+      "preco": 5000,
+      "pagamento": "parcelado no cartão"
+    }
+  ],
+  "HABILITAÇÃO DE MOTO": [
+    {
+      "id": 1,
+      "nome": "Categoria A",
+      "descrição": "Curso indicado para o condutor de veículo motorizado de duas ou três rodas.",
+      "preco": 4000,
+      "pagamento": "à vista"
+    },
+    {
+      "id": 2,
+      "nome": "Categoria A",
+      "descrição": "Curso indicado para o condutor de veículo motorizado de duas ou três rodas.",
+      "preco": 4500,
+      "pagamento": "via PIX"
+    },
+    {
+      "id": 3,
+      "nome": "Categoria A",
+      "descrição": "Curso indicado para o condutor de veículo motorizado de duas ou três rodas.",
+      "preco": 5000,
+      "pagamento": "parcelado no cartão"
+    }
+  ],
+  "RECICLAGEM": [
+    {
+      "id": 1,
+      "nome": "Reciclagem",
+      "descrição": "O curso tem como objetivo de reeducar o condutor que tenha sofrido a penalidade de suspensão do direito de dirigir.",
+      "preco": 4000,
+      "pagamento": "à vista"
+    },
+    {
+      "id": 2,
+      "nome": "Reciclagem",
+      "descrição": "O curso tem como objetivo de reeducar o condutor que tenha sofrido a penalidade de suspensão do direito de dirigir.",
+      "preco": 4500,
+      "pagamento": "via PIX"
+    },
+    {
+      "id": 3,
+      "nome": "Reciclagem",
+      "descrição": "O curso tem como objetivo de reeducar o condutor que tenha sofrido a penalidade de suspensão do direito de dirigir.",
+      "preco": 5000,
+      "pagamento": "parcelado no cartão"
+    }
+  ],
+  "RENOVAÇÃO": [
+    {
+      "id": 1,
+      "nome": "Renovação",
+      "descrição": "Prestamos todos os serviços necessários para a renovação de sua Carteira Nacional Habilitação / CNH.",
+      "preco": 4000,
+      "pagamento": "à vista"
+    },
+    {
+      "id": 2,
+      "nome": "Renovação",
+      "descrição": "Prestamos todos os serviços necessários para a renovação de sua Carteira Nacional Habilitação / CNH.",
+      "preco": 4500,
+      "pagamento": "via PIX"
+    },
+    {
+      "id": 3,
+      "nome": "Renovação",
+      "descrição": "Prestamos todos os serviços necessários para a renovação de sua Carteira Nacional Habilitação / CNH.",
+      "preco": 5000,
+      "pagamento": "parcelado no cartão"
+    }
+  ],
+  "INCLUSÃO DE CATEGORIA": [
+    {
+      "id": 1,
+      "nome": "Inclusão de Categoria",
+      "descrição": "Alteração ou Inclusão de Categoria os condutores ou aqueles que possuam a Permissão para Dirigir, desde que não tenham cometido infração grave, gravíssima ou sejam reincidentes em infrações médias, nos doze meses anteriores à solicitação.",
+      "preco": 4000,
+      "pagamento": "à vista"
+    },
+    {
+      "id": 1,
+      "nome": "Inclusão de Categoria",
+      "descrição": "Alteração ou Inclusão de Categoria os condutores ou aqueles que possuam a Permissão para Dirigir, desde que não tenham cometido infração grave, gravíssima ou sejam reincidentes em infrações médias, nos doze meses anteriores à solicitação.",
+      "preco": 4500,
+      "pagamento": "via PIX"
+    },
+    {
+      "id": 1,
+      "nome": "Inclusão de Categoria",
+      "descrição": "Alteração ou Inclusão de Categoria os condutores ou aqueles que possuam a Permissão para Dirigir, desde que não tenham cometido infração grave, gravíssima ou sejam reincidentes em infrações médias, nos doze meses anteriores à solicitação.",
+      "preco": 5000,
+      "pagamento": "parcelado no cartão"
     }
   ]
 }
