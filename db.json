@@ -1,5 +1,5 @@
 {
-  "PRIMEIRA HABILITAÇÃO": [
+  "primeiraHabilitacao": [
     {
       "id": 1,
       "nome": "Categoria B",
@@ -22,7 +22,7 @@
       "pagamento": "parcelado no cartão"
     }
   ],
-  "HABILITAÇÃO DE MOTO": [
+  "habilitacaoDeMoto": [
     {
       "id": 1,
       "nome": "Categoria A",
@@ -45,7 +45,7 @@
       "pagamento": "parcelado no cartão"
     }
   ],
-  "RECICLAGEM": [
+  "reciclagem": [
     {
       "id": 1,
       "nome": "Reciclagem",
@@ -68,7 +68,7 @@
       "pagamento": "parcelado no cartão"
     }
   ],
-  "RENOVAÇÃO": [
+  "renovacao": [
     {
       "id": 1,
       "nome": "Renovação",
@@ -91,7 +91,7 @@
       "pagamento": "parcelado no cartão"
     }
   ],
-  "INCLUSÃO DE CATEGORIA": [
+  "inclusaoDeCategoria": [
     {
       "id": 1,
       "nome": "Inclusão de Categoria",
