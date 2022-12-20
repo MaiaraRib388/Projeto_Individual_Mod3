@@ -21,7 +21,7 @@
       "nome":"Inclusão de Categoria"
     }
   ], 
-  "primeiraHabilitacao": 
+  "primeiraHabilitacao": [
     {
       "id": 1,
       "nome": "Categoria B",
