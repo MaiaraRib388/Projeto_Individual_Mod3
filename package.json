@@ -15,7 +15,7 @@
         "node": "^19.2.0"
     },
     "repository": {
-    "type": "git"
+    "type": "git",
     "url":"git+https://github.com/MaiaraRib388/Projeto_Individual_Mod3"
   }
 }
