@@ -1,5 +1,27 @@
 {
-  "primeiraHabilitacao": [
+  "Categorias": [
+    {
+      "id": 1,
+      "nome": "Primeira Habilitação"
+    },
+    {
+      "id": 2,
+      "nome": "Habilitação de Moto"
+    },
+    {
+      "id": 3,
+      "nome": "Reciclagem"
+    },
+    {
+      "id": 4,
+      "nome":"Renovação"
+    },
+    {
+      "id": 5,
+      "nome":"Inclusão de Categoria"
+    }
+  ], 
+  "primeiraHabilitacao": 
     {
       "id": 1,
       "nome": "Categoria B",
